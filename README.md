@@ -16,7 +16,7 @@ Aplikasi untuk monitoring jaringan menggunakan mikrotik dan google apps script
 [![DEMO](http://img.youtube.com/vi/4_-R9-GjJvw/0.jpg)](https://youtu.be/4_-R9-GjJvw)
 
 3. Reporting pada Google Data Studio  
-    > Progress  
+[![DEMO](http://img.youtube.com/vi/0g4NAN9ayo8/0.jpg)](https://youtu.be/0g4NAN9ayo8)
 
 #### License
 MIT
