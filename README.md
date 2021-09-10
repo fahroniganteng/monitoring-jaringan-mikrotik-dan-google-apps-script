@@ -21,7 +21,7 @@ Aplikasi untuk monitoring jaringan menggunakan mikrotik dan google apps script
 #### License
 MIT
 
-#### DONASI  
+#### Donasi  
 Dukung saya 
 - [Traktir kopi](https://sociabuzz.com/fahroniganteng/tribe)
 - [atau Es krim](https://trakteer.id/fahroniganteng/tip) 
